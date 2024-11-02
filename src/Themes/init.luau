@@ -4,6 +4,7 @@ local Themes = {
 		"Darker",
 		"Vynixu",
 		"Light",
+                "Lean",
 		"Aqua",
 		"Amethyst",
 		"Rose"
